@@ -1,9 +1,0 @@
-Oppgave 2: Kalkulator for multiplisering 
-
-Lag en funksjon som tar inn:
-- to tall
-
-Funksjonen skal:
-- regne ut svaret
-- vise resultatet på siden som “5 × 3 = 15”
-- funksjonen skal kunne brukes flere ganger med ulike tall
